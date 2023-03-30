@@ -1,0 +1,173 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorApp1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorApp1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\.gitignore",
+      "PackagePath": "staticwebassets\\my-app\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\README.md",
+      "PackagePath": "staticwebassets\\my-app\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\dist\\131.bundle.js",
+      "PackagePath": "staticwebassets\\my-app\\dist\\131.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\dist\\bundle.js",
+      "PackagePath": "staticwebassets\\my-app\\dist\\bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\dist\\bundle.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\my-app\\dist\\bundle.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\my-app-0.1.0.tgz",
+      "PackagePath": "staticwebassets\\my-app\\my-app-0.1.0.tgz"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\package-lock.json",
+      "PackagePath": "staticwebassets\\my-app\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\package.json",
+      "PackagePath": "staticwebassets\\my-app\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\public\\favicon.ico",
+      "PackagePath": "staticwebassets\\my-app\\public\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\public\\index.html",
+      "PackagePath": "staticwebassets\\my-app\\public\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\public\\logo192.png",
+      "PackagePath": "staticwebassets\\my-app\\public\\logo192.png"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\public\\logo512.png",
+      "PackagePath": "staticwebassets\\my-app\\public\\logo512.png"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\public\\manifest.json",
+      "PackagePath": "staticwebassets\\my-app\\public\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\public\\robots.txt",
+      "PackagePath": "staticwebassets\\my-app\\public\\robots.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\src\\App.css",
+      "PackagePath": "staticwebassets\\my-app\\src\\App.css"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\src\\App.js",
+      "PackagePath": "staticwebassets\\my-app\\src\\App.js"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\src\\App.test.js",
+      "PackagePath": "staticwebassets\\my-app\\src\\App.test.js"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\src\\index.css",
+      "PackagePath": "staticwebassets\\my-app\\src\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\src\\index.js",
+      "PackagePath": "staticwebassets\\my-app\\src\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\src\\logo.svg",
+      "PackagePath": "staticwebassets\\my-app\\src\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\src\\reportWebVitals.js",
+      "PackagePath": "staticwebassets\\my-app\\src\\reportWebVitals.js"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\src\\setupTests.js",
+      "PackagePath": "staticwebassets\\my-app\\src\\setupTests.js"
+    },
+    {
+      "Id": "C:\\Users\\Ray\\Desktop\\Code\\PR\\IHaveNoIdealWhatIsGoingOnAnymore\\BlazorApp1\\wwwroot\\my-app\\webpack.config.js",
+      "PackagePath": "staticwebassets\\my-app\\webpack.config.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorApp1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlazorApp1.props",
+      "PackagePath": "build\\BlazorApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorApp1.props",
+      "PackagePath": "buildMultiTargeting\\BlazorApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlazorApp1.props",
+      "PackagePath": "buildTransitive\\BlazorApp1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

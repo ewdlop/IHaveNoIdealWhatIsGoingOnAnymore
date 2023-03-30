@@ -1,0 +1,14 @@
+﻿@page
+@model BlazorApp1.MovieModel
+
+@{
+    ViewData["Title"] = "Movie";
+    Layout = "~/Shared/_Layout.cshtml";
+}
+
+<div id="root"></div>
+
+@section Scripts {
+    <script src="~/my-app/dist/bundle.js" asp-append-version="true"></script>
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
